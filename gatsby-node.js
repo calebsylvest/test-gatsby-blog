@@ -47,7 +47,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
     if (
       !fs.existsSync(
-        path.resolve(`content/${siteConfig.blogAuthorDir}/authors/`)
+        path.resolve(`content/${siteConfig.blogAuthorDir}/`)
       )
     ) {
       reject(

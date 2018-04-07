@@ -1,6 +1,7 @@
 ---
-title: "Angels of Mist"
+title: "Angels of Mistsssssss"
 cover: "https://unsplash.it/1280/900/?random?AngelsofMist"
+author: "caleb"
 category: "test3"
 date: "2017-01-03"
 tags:

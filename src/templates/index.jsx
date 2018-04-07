@@ -86,16 +86,6 @@ class IndexTemplate extends React.Component {
                   />
                 </div>
               </div>
-              <Link
-                className="scroll-down icon-arrow-left"
-                to="content"
-                data-offset="-45"
-                spy
-                smooth
-                duration={500}
-              >
-                <span className="hidden">Scroll Down</span>
-              </Link>
             </MainHeader>
 
             <PaginatedContent
