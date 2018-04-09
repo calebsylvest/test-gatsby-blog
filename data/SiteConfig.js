@@ -48,5 +48,5 @@ module.exports = {
   },
   themeColor: "#f43531", // Used for setting manifest and progress theme colors.
   backgroundColor: "#f7fae1", // Used for setting manifest background color.
-  promoteGatsby: true // Enables the GatsbyJS promotion information in footer.
+  promoteGatsby: false // Enables the GatsbyJS promotion information in footer.
 };

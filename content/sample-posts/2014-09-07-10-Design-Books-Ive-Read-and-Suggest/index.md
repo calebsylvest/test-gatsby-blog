@@ -1,8 +1,8 @@
 ---
 title: 10 Design Books I've Read and Suggest
-date: '2014-09-07 15:23:41'
-tags: []
-published: false
+cover: ./covers/cover-design-books.jpg
+date: "2014-09-07"
+author: caleb
 ---
 
 <a href="http://amzn.to/1qtFnL9"><em>Go: A Kidd's Guide to Graphic Design</em> by Chip Kidd</a>

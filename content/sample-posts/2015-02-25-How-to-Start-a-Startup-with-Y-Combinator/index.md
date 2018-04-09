@@ -1,11 +1,14 @@
 ---
 title: How to Start a Startup with Y Combinator
-date: '2015-02-25 09:30:31'
+cover: ./covers/cover-y-combinator-startup.png
+date: "2015-02-25"
+author: "caleb"
+category: "startups"
 tags:
-- community
-- education
-- startup
-- y-combinator
+  - community
+  - education
+  - startup
+  - y-combinator
 ---
 
 Back in September I stumbled upon the <em>How to Start a Startup</em> course at Stanford. Every year Y Combinator teaches a class at Stanford for Computer Science majors, assisting and teaching hard skills on how to create and grow a new business. The fall 2014 class was the first time the class was made publicly accessible and available to anyone online.

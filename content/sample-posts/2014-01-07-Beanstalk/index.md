@@ -1,14 +1,14 @@
 ---
-title: Beanstalk
-date: '2014-01-07 15:41:50'
+title: "Beanstalk"
+cover: "https://unsplash.com/photos/kRaH720CCRE"
+date: "2014-01-07"
+author: "caleb"
+category: "code"
 tags:
-- development
-- github
-- grid
-- mobile
-- responsive
-- rwd
-published: false
+  - development
+  - github
+  - mobile
+  - responsive web design
 ---
 
 <h1>Beanstalk Demo</h1>
@@ -48,15 +48,15 @@ $total-columns: 12 !default;</code></pre>
 <p>Beanstalk uses a <code>.row</code> and <code>.col-#</code> syntax to build a flexible grid, where all columns are contained within a parent <code>.row</code>.</p>
 
 <pre><code>&lt;div class=&quot;row&quot;&gt;
-  
+
   &lt;div class=&quot;col-8 column&quot;&gt;
     This is the main content area.
   &lt;/div&gt;
-  
+
   &lt;div class=&quot;col-4 column&quot;&gt;
     This is the sidebar area.
   &lt;/div&gt;
-  
+
 &lt;/div&gt;</code></pre>
 
 <h4>Working Mobile First</h4>
@@ -72,15 +72,15 @@ $total-columns: 12 !default;</code></pre>
   &lt;div class&quot;small-col-6 col-4 column&quot;&gt;
     On mobile, will be a two column grid and on desktop will be four column
   &lt;/div&gt;
-  
+
   &lt;div class&quot;small-col-6 col-4 column&quot;&gt;
     On mobile, will be a two column grid and on desktop will be four column
   &lt;/div&gt;
-  
+
   &lt;div class&quot;small-col-6 col-4 column&quot;&gt;
     On mobile, will be a two column grid and on desktop will be four column
   &lt;/div&gt;
-  
+
   &lt;div class&quot;small-col-6 col-4 column&quot;&gt;
     On mobile, will be a two column grid and on desktop will be four column
   &lt;/div&gt;

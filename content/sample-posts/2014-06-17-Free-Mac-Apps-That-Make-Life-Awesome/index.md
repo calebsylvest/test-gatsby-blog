@@ -1,13 +1,15 @@
 ---
-title: Free Mac Apps That Make Life Awesome
-date: '2014-06-17 09:00:14'
+title: "Free Mac Apps That Make Life Awesome"
+cover: ./covers/cover-free-mac-apps.jpg
+date: "2014-06-17"
+author: "caleb"
+category: "mac"
 tags:
-- apps
-- technology
+  - apps
+  - technology
 ---
 
 We all love free stuff, and super charging my computer with apps makes me happy. I wanted to take a moment to share some of my favorite, often times simple, Mac apps that are an integral part of my computer. And best of all, they are all free! So go buck wild and try them out, you've got nothing to lose.
-<!--more-->
 
 <strong><a href="http://www.freemacsoft.net/appcleaner/">AppCleaner</a>.</strong> If you've ever tried to remove a Mac app yourself you know it can be a mess! AppCleaner offers a simple drag-and-drop interface that finds all app related files and deletes them for you without causing headaches.
 

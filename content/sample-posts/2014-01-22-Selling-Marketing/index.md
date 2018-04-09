@@ -1,12 +1,15 @@
 ---
-title: Selling & Marketing
-date: '2014-01-22 09:00:12'
+title: "Selling & Marketing"
+cover: "https://unsplash.com/photos/kRaH720CCRE"
+date: "2014-01-22"
+author: "caleb"
+category: "personal"
 tags:
-- book-arts
-- bookbinding
-- handmade
-- marketing
-- skillshare
+  - book-arts
+  - bookbinding
+  - handmade
+  - marketing
+  - skillshare
 ---
 
 This post relates to my <a href="http://skl.sh/1dgs9HO" title="Bookbinding Basics on Skillshare" target="_blank">Bookbinding Basics</a> class on Skillshare, though also about good marketing practices, period!
@@ -14,8 +17,6 @@ This post relates to my <a href="http://skl.sh/1dgs9HO" title="Bookbinding Basic
 I’ve had a number of students contact asking for advice on selling books, pricing, and where to sell. I’ve been making books for several years and selling on the side as a hobby and to make a little bit of money. Selling books may sound difficult, but if you do it right and create demand you will be surprised how many you can sell!
 
 On a typical sales day (at an Art &amp; Craft show) I can start the day with 50 books for sale and leave with only 5 left over and several hundred dollars in my pocket. You too can do this, and have fun at the same time.
-
-<!--more-->
 
 <h3>Where?</h3>
 

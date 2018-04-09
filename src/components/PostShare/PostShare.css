@@ -15,6 +15,7 @@
     margin: 1rem 1.6rem 1.6rem 0;
     color: #bbc7cc;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .post-footer .share .icon-twitter:hover {

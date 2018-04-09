@@ -1,11 +1,14 @@
 ---
-title: 'Accepting Technology: When I Gave in and Tried the Kindle App'
-date: '2014-05-16 09:00:56'
+title: "Accepting Technology: When I Gave in and Tried the Kindle App"
+cover: ./covers/cover-kindle-app.png
+date: "2014-05-16"
+author: caleb
+category: productivity
 tags:
-- a-game-of-thrones
-- george-r-r-martin
-- kindle
-- technology
+  - a-game-of-thrones
+  - george-r-r-martin
+  - kindle
+  - technology
 ---
 
 Hearing someone berate new inventions and tools always surprises me, whether it's the rise of the smartphone, Google Glass, or an all-electric automobile. I typically think of myself as open to change and accepting of new tools, at least enough to try them out or give them time to prove themselves in the real world.

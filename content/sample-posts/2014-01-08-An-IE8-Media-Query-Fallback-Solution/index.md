@@ -1,19 +1,20 @@
 ---
-title: An IE8 Media Query Fallback Solution
-date: '2014-01-08 09:00:26'
+title: "An IE8 Media Query Fallback Solution"
+cover: "https://unsplash.com/photos/kRaH720CCRE"
+date: "2014-01-08"
+author: "caleb"
+category: "code"
 tags:
-- development
-- ie8
-- media-queries
-- mobile
-- rwd
+  - development
+  - ie8
+  - css
+  - mobile
+  - responsive web design
 ---
 
 With Responsive Web Design building a site Mobile First is an excellent way to build site infrastructure, serving the least amount of code to devices that often have less bandwidth and building up from there.
 
 A problem is that IE8 and below do not support media-queries, thus when users visit a Mobile First site using IE8 they are served only a mobile site on a desktop browser. Whomp whomp! Personally I’m all for dropping support of IE8 and not worrying about it (which is usually what I do) but sometimes you <em>must</em> support IE8 whether you want to or not. <a href="http://zurb.com/article/1265/ie8-is-going-the-way-of-the-dodo-so-why-s" target="_blank">Microsoft will no longer support IE8 as of April 2014</a>, and while that’s great to hear it does not mean IE8 users will be upgrading.
-
-<!--more-->
 
 I hate IE8, don’t want to support it or spend too much time making sure it works. Plus it already has one foot in the grave, so why should I? Normally I wouldn’t give IE8 a second thought, but the other day I came up with a simple solution to make sure IE8 plays nice with your RWD site and requires practically no effort.
 
@@ -42,22 +43,22 @@ We can agree that in a case where a large percentage of customers use IE8 someth
 
 <pre><code>
 // styles will be applied to mobile
-.feature-container, 
-.feature-sidebar { 
-  width: 100%; 
-  max-width: 650px; 
-} 
+.feature-container,
+.feature-sidebar {
+  width: 100%;
+  max-width: 650px;
+}
 
 // styles will be applied and overwrite the above code above 600px
-@media screen and (min-width: 600px) { 
+@media screen and (min-width: 600px) {
 
-  .feature-container { 
-    width: 70%; 
+  .feature-container {
+    width: 70%;
   }
 
-  .feature-sidebar { 
-    width: 30%; 
-  } 
+  .feature-sidebar {
+    width: 30%;
+  }
 }
 </code></pre>
 

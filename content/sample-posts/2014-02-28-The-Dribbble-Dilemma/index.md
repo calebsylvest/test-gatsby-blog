@@ -1,17 +1,17 @@
 ---
-title: The Dribbble Dilemma
-date: '2014-02-28 09:30:31'
+title: "The Dribbble Dilemma"
+cover: "https://unsplash.com/photos/kRaH720CCRE"
+date: "2014-02-28"
+author: "caleb"
+category: "design"
 tags:
-- comments
-- community
-- community
-- design
-- dribbble
-- social-media
+  - comments
+  - community
+  - dribbble
+  - social-media
 ---
 
 While I am touching on the design network of Dribbble in this post, what I talk about really concerns all social media sources and the way we choose to use them in our day-to-day lives. The rise of social networks, beginning with Facebook, has changed the way we live our lives, communicate, and expect to interact with other human beings. I believe all social networks are similar to marriage, where as a user you progress through the honeymoon, newlywed, and troubled times phases (if you're married you know what I'm talking about).
-<!--more-->
 
 <h2>What Is Dribbble?</h2>
 

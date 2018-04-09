@@ -1,16 +1,17 @@
 ---
-title: Line Height for All
-date: '2014-04-02 09:00:55'
+title: "Line Height for All"
+cover: ./covers/cover-line-height.png
+date: "2014-04-02"
+author: "caleb"
+category: "code"
 tags:
-- css
-- development
-- development
-- line-height
-- web-typography
+  - css
+  - development
+  - line-height
+  - web-typography
 ---
 
 Line height is one of the small things that can make or break your design. A little detail that is often overlooked or not properly massaged to perfection. This is going to be a short-and-sweet post outlining the best method for declaring line-heights, and there is a group discussion question at the end!
-<!--more-->
 
 <h2>Kill All The Units</h2>
 

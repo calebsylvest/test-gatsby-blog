@@ -1,12 +1,11 @@
 ---
-title: 50 Shades of Gray (the color)
-date: '2014-01-02 09:00:36'
+title: "50 Shades of Gray (the color)"
+cover: "https://unsplash.com/photos/kRaH720CCRE"
+date: "2014-01-02"
+author: "caleb"
+category: "design"
 tags:
-- color
-- design
-- design
-- gray
-- photoshop
+  - color
 ---
 
 Have you wanted your web designs to have more life and pizzazz? There are a few simple steps to follow that will help take a design to the next level. Today, let’s focus on using color.</p>
@@ -14,8 +13,6 @@ Have you wanted your web designs to have more life and pizzazz? There are a few 
 <h2>The Perception</h2>
 
 As a beginning designer tackling a new project can often seem daunting and overwhelming. There are lots of aspects of design to learn and grow - typography, layout and grid systems, color theory, balance, rhythm, marketing - the list could go on forever. But one of the most powerful, and subtle, is <em>color</em>.
-
-<!--more-->
 
 <a href="http://www.smashingmagazine.com/2010/01/28/color-theory-for-designers-part-1-the-meaning-of-color/" target="_blank">Colors contain an ingrained meaning</a> - red is powerful, blue is soothing - but at the same time color can be one of the most subjective areas of design. Rarely do any two people perceive color the same way. In fact, humans perceive color differently than other species. Some animals can see a wider range of the color spectrum than humans and others, like <a href="http://dogtime.com/dogs-colorblind-staff-faq.html" target="_blank">dogs, only perceive a limited range</a> (not just black and white).
 

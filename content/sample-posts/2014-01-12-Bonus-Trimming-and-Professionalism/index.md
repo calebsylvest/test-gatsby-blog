@@ -1,12 +1,15 @@
 ---
 title: "*Bonus* Trimming and Professionalism"
-date: '2014-01-12 16:55:27'
+cover: "https://unsplash.com/photos/kRaH720CCRE"
+date: "2014-01-12"
+author: "caleb"
+category: "education"
 tags:
-- book-arts
-- bookbinding
-- handmade
-- hands-on
-- skillshare
+  - book-arts
+  - bookbinding
+  - handmade
+  - hands-on
+  - skillshare
 ---
 
 This post covers an extra step related to my Bookbinding class on Skillshare. If you are not a part of my class and want to know more, check this out: <a href="http://skl.sh/1dgs9HO" title="Bookbinding Basics: Making a Perfect Bound Book" target="_blank">Bookbinding Basics: Making a Perfect Bound Book</a>.

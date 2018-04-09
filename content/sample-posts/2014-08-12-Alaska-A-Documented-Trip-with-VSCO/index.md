@@ -1,13 +1,14 @@
 ---
-title: 'Alaska: A Documented Trip with VSCO'
-date: '2014-08-12 10:00:54'
+title: "Alaska: A Documented Trip with VSCO"
+cover: ./covers/cover-alaska.jpg
+date: "2014-08-12"
+author: "caleb"
+category: "personal"
 tags:
-- photography
+  - photography
 ---
 
 I recently returned from an excellent adventure in Alaska. The journey began with a flight to Vancouver, BC and onto a cruise ship sailing up the coast of Alaska, making several stops along the way. I can definitely recommend taking a cruise through Alaska if you ever choose to make the visit.
-
-<!--more-->
 
 The following are a smattering of my photos from the trips, if you would like to see my account of the full photo journey (and other adventures), check out my VSCO page where I post the best-of-the-best photos from my explorations.
 

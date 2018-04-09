@@ -1,15 +1,14 @@
 ---
-title: It's Time to Graduate, Part II
-date: '2014-07-02 09:30:00'
+title: "It's Time to Graduate, Part II"
+cover: ./covers/cover-graduate-feature-part-2.jpg
+date: "2014-07-02"
+author: "caleb"
+category: "education"
 tags:
-- community
-- education
-- education-2
+  - community
 ---
 
 Welcome to the second installment of the <em>It's Time to Graduate</em> word of advice column from a dude who, not so long ago, was in your place. In <em><a href="http://calebsylvest.com/its-time-to-graduate/">It's Time to Graduate, Part I</a></em> we covered the basics of what graduating designers and developers need to consider when leaving school and preparing for their first professional job. This time around I'm not going to focus on points to help designers and developers but talk about things I've learned and thought about in my years since entering the 'real world' that should help everyone.
-
-<!--more-->
 
 <h3>1. Get a Real Job</h3>
 

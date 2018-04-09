@@ -1,21 +1,20 @@
 ---
-title: It's Time to Graduate, Part I
-date: '2014-04-09 09:00:16'
+title: "It's Time to Graduate, Part I"
+cover: ./covers/cover-designer-developer-graduating.jpg
+date: "2014-04-09"
+author: "caleb"
+category: "education"
 tags:
-- community
-- design
-- development
-- dribbble
-- education
-- education-2
-- github
+  - community
+  - design
+  - development
+  - dribbble
+  - github
 ---
 
 Three years ago I graduated from Louisiana Tech University with a degree in Communication Design. Little did I know the five years spent in the university system did <em>not</em> prepare me for the working world. But that's okay, what I have learned in the past three years is that education is continual, my time at college was the beginning, a stepping stone toward my future career.
 
 I want to give a word of advice to any soon-to-be graduates in preparation for entering the working field of design and/or development. These are all things I have learned over the past three years, and wish someone had provided me while in school (really when I was a freshman).
-
-<!--more-->
 
 <h2>So Now You Need a Job</h2>
 

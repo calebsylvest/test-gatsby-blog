@@ -1,20 +1,20 @@
 ---
-title: Writing Useful Github Issues
-date: '2014-02-05 09:00:25'
+title: "Writing Useful Github Issues"
+cover: "https://unsplash.com/photos/kRaH720CCRE"
+date: "2014-02-05"
+author: "caleb"
+category: "code"
 tags:
-- development
-- development
-- github
-- issues
-- management
-- team
+  - development
+  - github
+  - issues
+  - management
+  - team
 ---
 
 Finding out there is something wrong with the work you did on a project is bad enough, but when reading through issues is like deciphering Latin, well it’s no wonder so many developers <a href="http://en.wikipedia.org/wiki/Going_postal">go postal</a>. Writing detailed, thorough, and transparent issues should be the goal of everyone on your team, because we most often write issue request for someone other than ourselves. So let’s follow the Golden Rule of issue request, “Write issue request for others as you would like them written for you (or better).”
 
 Writing good issue request, and teaching a team the same, will save everyone time, money, and confusion in the long run. It’s really a no-brainer. I’m talking specifically about Github, because I use it most of the time for code management and I know many other developers do as well, but what I cover can be applied to any issue management tool.
-
-<!--more-->
 
 <h2>What An Issue Should Accomplish</h2>
 

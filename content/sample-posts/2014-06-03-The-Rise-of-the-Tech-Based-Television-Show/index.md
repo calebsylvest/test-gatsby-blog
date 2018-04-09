@@ -1,18 +1,19 @@
 ---
 title: The Rise of the Tech Based Television Show
-date: '2014-06-03 09:00:21'
+cover: ./covers/cover-tech-television.jpg
+date: "2014-06-03"
+author: caleb
+category: entertainment
 tags:
-- coding
-- entertainment
-- film
-- media
-- television
+  - coding
+  - film
+  - media
+  - television
 ---
 
 Let's be honest, we all watch too much t.v. I'm no exception, the minute I complete one show series I seem to stumble upon a new show that sucks me in, keeping me constantly and consistently waiting for new episodes each week or binge watching full seasons.
 
 Lately a television trend has arisen of tech-based drama series. There have always been the ridiculously, over-dramatized movies about computer geeks and 'hackers', typically criminally based, such as <a href="http://www.imdb.com/title/tt0244244/?ref_=nv_sr_1">Swordfish</a> and <a href="http://www.imdb.com/title/tt0113243/?ref_=nv_sr_1">Hackers</a>, even <a href="http://www.imdb.com/title/tt0107290/?ref_=nv_sr_2">Jurassic Park</a> gave a nod to the mysterious and all-powerful hacker. But anyone with an ounce of computer savvy or know-how understands the over-the-top nature of these films.
-<!--more-->
 
 <h2>Enter the Prototype</h2>
 

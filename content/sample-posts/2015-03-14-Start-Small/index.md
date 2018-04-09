@@ -1,10 +1,13 @@
 ---
-title: Start Small
-date: '2015-03-14 12:24:17'
+title: "Start Small"
+cover: ./covers/cover-start-small.jpg
+date: "2015-03-14"
+author: "caleb"
+category: "Thought"
 tags:
-- apps
-- goal
-- productivity
+  - apps
+  - goal
+  - productivity
 ---
 
 Making a life change is tough. Living everyday life can be difficult enough, but changing old habits or starting new ones really goes against the nature of most humans (be comfortable and don't rock the boat).

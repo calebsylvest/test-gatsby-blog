@@ -1,8 +1,12 @@
 ---
-title: 2014 in Review
-date: '2015-01-19 09:00:45'
+title: "2014 in Review"
+cover: ./covers/cover-2014-review.jpg
+date: "2015-01-19"
+author: "caleb"
+category: "personal"
 tags:
-- review
+  - review
+  - personal
 ---
 
 Yeah, I know I’m late to the game, but before 2015 gets away from me I wanted to share a brief overview of what happened in 2014 for me and my family.

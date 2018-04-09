@@ -1,10 +1,13 @@
 ---
-title: 'Sass: A Guide to Getting Started'
-date: '2014-04-01 19:56:56'
+title: "Sass: A Guide to Getting Started"
+cover: ""
+date: "2014-04-01"
+author: "caleb"
+category: "code"
 tags:
-- development
-- development
-- sass
+  - css
+  - development
+  - sass
 published: false
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: "Validate a Product Idea with Breadbox"
-cover: "./breadbox.png"
+cover: ./covers/cover-breadbox.png
 date: "2015-03-17"
 author: "caleb"
 category: "startup"
 tags:
   - apps
-  - products
   - products
   - validation
 ---

@@ -1,15 +1,18 @@
 ---
-title: What Are You Working On?
-date: '2014-03-28 09:00:37'
+title: "What Are You Working On?"
+cover: "https://unsplash.com/photos/kRaH720CCRE"
+date: "2014-03-28"
+author: "caleb"
+category: "personal"
 tags:
-- book-arts
-- bookbinding
-- handmade
-- hands-on
-- skillshare
+  - book-arts
+  - bookbinding
+  - handmade
+  - hands-on
+  - skillshare
 ---
 
-In less than a month the <a title="Texas Avenue Makers Fair" href="http://texasavemakersfair.com/" target="_blank">Texas Avenue Makers Fair</a> will set up shop in Shreveport, Louisiana. I was part of the very first event and will once again be joining the ranks of super cool vendors selling their wares. This year the event has grown, tripling in size and occupying a new location and offering more booths and additions than ever before. It should be a great day, weather permitted, so if you are in the area stop by!
+In less than a month the [Texas Avenue Makers Fair](http://texasavemakersfair.com/) will set up shop in Shreveport, Louisiana. I was part of the very first event and will once again be joining the ranks of super cool vendors selling their wares. This year the event has grown, tripling in size and occupying a new location and offering more booths and additions than ever before. It should be a great day, weather permitted, so if you are in the area stop by!
 
 I want to share the progress of what I am working on. Currently I am in the middle of making about 60 books. Whew, and it's quite the workout. If you are looking at my bookbinding work for the first time, I primarily make perfect bound books but do stitch books as well. I also teach an online class on Skillshare about <a title="Making Perfect Bound Books on Skillshare" href="http://skl.sh/1dgs9HO" target="_blank">Making Perfect Bound Books</a>, so if you are interested in learning check that out. Perfect bound books are a great way to get into bookbinding because they take less time and unique materials to create than stitched books.
 <!--more-->

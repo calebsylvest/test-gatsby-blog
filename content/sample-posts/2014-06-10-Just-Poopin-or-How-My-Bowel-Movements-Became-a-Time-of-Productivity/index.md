@@ -1,12 +1,14 @@
 ---
 title: Just Poopin' or How My Bowel Movements Became a Time of Productivity
-date: '2014-06-10 09:00:19'
+cover: ./covers/cover-just-poopin-productivity.png
+date: "2014-06-10"
+author: caleb
+category: productivity
 tags:
-- productivity
+  - apps
 ---
 
-How often do you have a bowl movement? It's a legitimate question that can start conversations that last hours. Did you know the average human will <a href="http://www.scotsman.com/news/how-long-do-we-spend-in-bathroom-1-189-years-1-1072528">spend 92 days on the toilet throughout their lifetime</a>? I have a hypothesis the number will increase with the generation growing up at the moment, mostly due to the invention and adoption of smartphones and entertainment devices persistently on our persons and quick to make an appearance when we pop-a-squat. 
-<!--more-->
+How often do you have a bowl movement? It's a legitimate question that can start conversations that last hours. Did you know the average human will <a href="http://www.scotsman.com/news/how-long-do-we-spend-in-bathroom-1-189-years-1-1072528">spend 92 days on the toilet throughout their lifetime</a>? I have a hypothesis the number will increase with the generation growing up at the moment, mostly due to the invention and adoption of smartphones and entertainment devices persistently on our persons and quick to make an appearance when we pop-a-squat.
 
 <h2>A Whole New World</h2>
 

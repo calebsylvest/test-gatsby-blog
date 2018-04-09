@@ -1,14 +1,10 @@
 ---
 title: "You May Be Using @font-face Incorrectly"
-cover: "https://unsplash.com/photos/random"
+cover: "https://images.unsplash.com/photo-1521658545678-ddc826cf4166?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=dc701426668894ab416c8dc79407e2ae&auto=format&fit=crop&w=1350&q=80"
 author: "caleb"
 date: "2013-12-18"
-category: "typography"
+category:
 tags:
-  - css
-  - typography
-  - web-typography
-published: true
 ---
 
 When I discovered that I had been using the [@font-face](http://www.font-face.com/) rule incorrectly (for quite a long time actually) I was floored. How could this have happened? I was working off of numerous tutorials and suggestions online and they were all saying the same thing. Just goes to show that the internet is not always right.

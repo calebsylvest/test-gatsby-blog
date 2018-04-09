@@ -1,12 +1,11 @@
 ---
 title: "Hello World or How My Career Started with a TI83 Calculator"
-cover: "https://unsplash.com/photos/kRaH720CCRE"
-author: "caleb"
+cover: "https://unsplash.it/1280/900/?random?BigTest"
 date: "2013-12-10"
+author: "caleb"
 category: "education"
 tags:
   - development
-  - education
 ---
 
 The [Hello World](http://en.wikipedia.org/wiki/Hello_world_program) text is synonymous, for developers, with the start of a new project, and often a new technology. The simple phrase has a long history as a starting block for software development and testing.

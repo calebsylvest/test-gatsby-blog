@@ -1,8 +1,8 @@
 ---
 title: "Made by Hand"
 cover: "https://unsplash.it/1280/500/?random"
-author: "caleb"
 date: "2013-12-14"
+author: "caleb"
 category: "maker"
 tags:
   - bookbinding

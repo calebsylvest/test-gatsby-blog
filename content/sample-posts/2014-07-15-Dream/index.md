@@ -1,10 +1,11 @@
 ---
-title: Dream
-date: '2014-07-15 09:00:42'
-tags:
-- post-format-quote
+title: "Dream"
+cover: ./covers/cover-dream.jpg
+date: "2014-07-15"
+author: "caleb"
+category: "thought"
 ---
 
-<blockquote>Look: I've never had a dream in my life, because a dream is what you wanted to do but still haven't pursued. I knew what I wanted to do and did it till it was done, so I've been the dream that I wanted to be since day one.</blockquote>
+> Look: I've never had a dream in my life, because a dream is what you wanted to do but still haven't pursued. I knew what I wanted to do and did it till it was done, so I've been the dream that I wanted to be since day one.
 
-<cite>-- Aesop Rock</cite>
+--Aesop Rock

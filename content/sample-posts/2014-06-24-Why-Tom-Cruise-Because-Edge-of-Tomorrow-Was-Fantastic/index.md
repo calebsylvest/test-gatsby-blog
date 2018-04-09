@@ -1,16 +1,17 @@
 ---
 title: Why Tom Cruise? Because 'Edge of Tomorrow' Was Fantastic
-date: '2014-06-24 09:30:36'
+cover: ./covers/cover-edge-of-tomorrow.jpg
+date: "2014-06-24"
+author: caleb
+category: entertainment
 tags:
-- entertainment
-- film
-- tom-cruise
+  - movies
+  - review
 ---
 
 If you have not yet seen <em><a href="http://www.imdb.com/title/tt1631867/?ref_=nv_sr_1">Edge of Tomorrow</a></em> I highly suggest you check it out. The film really is great and I believe will go down as one of the great sci-fi flicks – when it finally catches on. Because for some reason thus far, <em>Edge of Tomorrow</em> has performed spectacularly poorly at the box office, though ratings, including <a href="http://www.rottentomatoes.com/m/edge_of_tomorrow/">ratings by Rotten Tomatoes have been stupendous</a>.
 
 What I want to know is why was <a href="http://www.imdb.com/name/nm0000129/">Tom Cruise</a> chosen as the lead actor? Don't get me wrong, he did a perfect job in the role (as he always does) but he just doesn't seem to fit the role like another actor could.
-<!--more-->
 
 <strong>Why I Don't Care For Tom Cruise:</strong>
 
