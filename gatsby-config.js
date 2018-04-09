@@ -81,12 +81,12 @@ module.exports = {
         display: "minimal-ui",
         icons: [
           {
-            src: "/logos/logo-192x192.png",
+            src: "./logos/logo-192x192.png",
             sizes: "192x192",
             type: "image/png"
           },
           {
-            src: "/logos/logo-512x512.png",
+            src: "./logos/logo-512x512.png",
             sizes: "512x512",
             type: "image/png"
           }
@@ -100,7 +100,7 @@ module.exports = {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata;
           ret.allMarkdownRemark = ref.query.allMarkdownRemark;
-          ret.generator = "GatsbyJS Casper Starter";
+          ret.generator = "Caleb Sylvest's Blog";
           return ret;
         },
         query: `

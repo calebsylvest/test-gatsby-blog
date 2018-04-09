@@ -1,13 +1,13 @@
 {
   "id": "caleb",
   "name": "Caleb Sylvest",
-  "image": "https://api.adorable.io/avatars/150/test.png",
+  "image": "./images/caleb-sylvest.jpg",
   "url": "http://calebsylvest.com/blog",
   "location": "Dallas, TX",
   "bio": "Pickles are better than plums",
   "socialUrls": [
-    "https://github.com/gatsbyjs",
-    "https://twitter.com/gatsbyjs",
-    "mailto:gatsbyjs@example.com"
+    "https://github.com/calebsylvest",
+    "https://twitter.com/calebsylvest",
+    "mailto:caleb.sylvest@gmail.com"
   ]
 }
