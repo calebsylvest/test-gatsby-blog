@@ -56,7 +56,7 @@ class PostListing extends React.Component {
               <footer className="post-meta">
                 <AuthorThumbnail avatar={author.image} name={author.name} />
                 <AuthorLink url={`/author/${author.id}`} name={author.name} />
-                <PostTags prefix=" on " tags={tags} />
+                {/* <PostTags prefix=" on " tags={tags} /> */}
                 <PostDate date={date} />
               </footer>
             </PostFormatting>

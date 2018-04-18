@@ -6,7 +6,6 @@ author: "caleb"
 category: "personal"
 tags:
   - review
-  - personal
 ---
 
 Yeah, I know I’m late to the game, but before 2015 gets away from me I wanted to share a brief overview of what happened in 2014 for me and my family.

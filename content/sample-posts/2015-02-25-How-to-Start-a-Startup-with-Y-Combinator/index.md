@@ -7,7 +7,6 @@ category: "startups"
 tags:
   - community
   - education
-  - startup
   - y-combinator
 ---
 
