@@ -14,16 +14,22 @@ module.exports = {
   siteRssAuthor: "Caleb Sylvest", // The author name used in the RSS file
   // siteFBAppID: "1825356251115265", // optional, sets the FB Application ID for using app insights
   sitePaginationLimit: 20, // The max number of posts per page.
-  googleAnalyticsID: "UA-111982167-1", // GA tracking ID.
+  googleAnalyticsID: "UA-29565053-7", // GA tracking ID.
   // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // enables Disqus comments, visually deviates from original Casper theme.
   siteSocialUrls: [
+    "https://dribbble.com/calebsylvest",
     "https://github.com/calebsylvest",
     "https://twitter.com/calebsylvest",
     "mailto:caleb.sylvest@gmail.com"
   ],
-  postDefaultCategoryID: "Thought", // Default category for posts.
+  postDefaultCategoryID: "post", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
   userLinks: [
+    {
+      label: "Dribbble",
+      url: "https://dribbble.com/calebsylvest",
+      iconClassName: "fa fa-dribbble" // Disabled, see Navigation.jsx
+    },
     {
       label: "GitHub",
       url: "https://github.com/calebsylvest",
